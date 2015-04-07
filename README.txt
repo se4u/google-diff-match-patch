@@ -1,3 +1,9 @@
+See the original readme in its entirety below. I added a script
+chardiff.py to python2 folder for taking word by word diffs. To do
+that I had to modify diff-match-patch.py a little.
+See my commits for detailed diffs.
+
+---------------------------------------------------
 Diff, Match and Patch Library
 http://code.google.com/p/google-diff-match-patch/
 Neil Fraser
